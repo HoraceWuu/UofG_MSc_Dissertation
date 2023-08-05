@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "9e5afcb222e04fc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "acc7fb89225bbd1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66f21bb152a46cf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "draft/3. Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7f8c546c314bf5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "78dd918f73cac191",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb351d077ff0d597",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac5a961320209e18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e02737c8cd711259",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e97053f9d4860a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "5597249d4f552b2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e2b29f41cb1d42d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "draft/3. Method.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cc66d886e782743",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "draft/3. Method.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b05c1e1b08a85c51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78605de47ceffa08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "draft/3. Method.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "66f21bb152a46cf4",
+  "lastOpenFiles": [
+    "draft/1. Introduction.md",
+    "outline/Outline.md",
+    "words/dissertation_outline_Hao_28_July_JS.docx",
+    "dissertation_outline_Hao_28_July_JS.docx",
+    "words/dissertation_outline_Hao.docx",
+    "words",
+    "figs/heatmap.png",
+    "figs/FHV_logistic.png",
+    "draft/2. Literature Review.md",
+    "draft/4. Result.md",
+    "figs/未命名.canvas",
+    "未命名",
+    "draft/3. Method.md",
+    "实验/实验方法.md",
+    "figs",
+    "实验",
+    "未命名.canvas",
+    "outline",
+    "draft"
+  ]
+}
