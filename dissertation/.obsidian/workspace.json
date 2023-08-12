@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/3. Method.md",
+                "file": "draft/3. Data Source and Methodology.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e97053f9d4860a94",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "draft/3. Method.md",
+                "file": "draft/3. Data Source and Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "draft/3. Method.md",
+                "file": "draft/3. Data Source and Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draft/3. Method.md"
+                "file": "draft/3. Data Source and Methodology.md"
               }
             }
           }
@@ -160,7 +161,7 @@
     "draft/4. Result.md",
     "figs/未命名.canvas",
     "未命名",
-    "draft/3. Method.md",
+    "draft/3. Data Source and Methodology.md",
     "实验/实验方法.md",
     "figs",
     "实验",
